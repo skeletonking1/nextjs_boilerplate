@@ -1,8 +1,8 @@
-#Aphrodite
+# Aphrodite
 LP theme for female.
 
 
-#Environment  
+# Environment  
 ##frontend  
 ###version   
 Javascript  
