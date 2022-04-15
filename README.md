@@ -1,9 +1,10 @@
 #Aphrodite
 LP theme for female.
 
-#Environment
-##frontend
-###version  
+
+#Environment  
+##frontend  
+###version   
 Javascript  
 React v18  
 Nest.js  
@@ -19,12 +20,12 @@ jest
 
 
 
-##Infrastructure
+##Infrastructure  
 vercel
 
 
-#Install
+#Install  
 
 
-#Task  
+#Task   
 maintenance document to README.md
