@@ -3,8 +3,8 @@ LP theme for female.
 
 
 # Environment  
-##frontend  
-###version   
+## frontend  
+### version   
 Javascript  
 React v18  
 Nest.js  
@@ -12,7 +12,7 @@ volta
 node  
 yarn  
 
-###architecture  
+### architecture  
 styled-component  
 tailwind-css  
 storybook    
@@ -20,7 +20,7 @@ jest
 
 
 
-##Infrastructure  
+## Infrastructure  
 vercel
 
 
