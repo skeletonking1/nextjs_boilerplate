@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "env": {
         "browser": true,
         "es2021": true,
@@ -37,4 +38,7 @@
       "react/react-in-jsx-scope": "off",
       "@typescript-eslint/explicit-module-boundary-types": "off"
     }
+=======
+  "extends": "next/core-web-vitals"
+>>>>>>> 49dc5787a9b651f50721ade8f1b916c24593a5da
 }
