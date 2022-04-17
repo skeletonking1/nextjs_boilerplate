@@ -25,3 +25,7 @@
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 
 import '@testing-library/cypress/add-commands';
+
+Cypress.Commands.add('example_cmd', () =>
+  cy.visit('https://github.com/skeletonking1/aphrodite'),
+);
