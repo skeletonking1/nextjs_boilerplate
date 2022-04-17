@@ -1,27 +1,3 @@
-<<<<<<< HEAD
-
-
-## What is inside
-
-This project brings a complete set of modern tools and libraries, including:
-
-- [TypeScript](https://www.typescriptlang.org/)
-- [NextJS](https://nextjs.org/)
-- [Styled Components](https://styled-components.com/)
-- [Jest](https://jestjs.io/)
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
-- [Storybook](https://storybook.js.org/)
-- [Eslint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-- [Husky](https://github.com/typicode/husky)
-- [PLOP](https://plopjs.com/)
-
-## Getting Started
-
-Run the development server with:
-
-```bash
-=======
 # Aphrodite React 🌱
 
 [//]: # ([![MIT License]&#40;https://img.shields.io/github/license/alan2207/bulletproof-react&#41;]&#40;https://github.com/alan2207/bulletproof-react/blob/master/LICENCE&#41;)
@@ -76,13 +52,11 @@ Contributions are always welcome! If you have any ideas, suggestions, fixes, fee
 First, run the development server:
 
 ```sh
->>>>>>> 49dc5787a9b651f50721ade8f1b916c24593a5da
 yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-<<<<<<< HEAD
 You can start editing the page by modifying `src/pages/index.js`. The page auto-updates as you edit the file.
 
 ## Commands
@@ -96,7 +70,6 @@ You can start editing the page by modifying `src/pages/index.js`. The page auto-
 - `storybook`: runs storybook on `localhost:6006`
 - `storybook:build`: create the build version of storybook
 - `generate`: create a new component or util file from the CLI using PLOP
-=======
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
@@ -121,4 +94,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 stg:
 
 prd:
->>>>>>> 49dc5787a9b651f50721ade8f1b916c24593a5da
